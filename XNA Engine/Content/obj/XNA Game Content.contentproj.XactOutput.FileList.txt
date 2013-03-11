@@ -1,0 +1,3 @@
+Content\Audio\hikari.xgs
+Content\Audio\waveBank.xwb
+Content\Audio\soundBank.xsb

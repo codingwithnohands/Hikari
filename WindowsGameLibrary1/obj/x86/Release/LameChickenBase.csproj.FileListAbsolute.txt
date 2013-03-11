@@ -1,0 +1,12 @@
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\bin\x86\Release\WindowsGameLibrary1.dll
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\bin\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\obj\x86\Release\WindowsGameLibrary1.dll
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\obj\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\WindowsGameLibrary1\obj\x86\Release\LameChickenBase.csprojResolveAssemblyReference.cache
+D:\Coding\XNA Engine\WindowsGameLibrary1\bin\x86\Release\WindowsGameLibrary1.dll
+D:\Coding\XNA Engine\WindowsGameLibrary1\bin\x86\Release\WindowsGameLibrary1.pdb
+D:\Coding\XNA Engine\WindowsGameLibrary1\obj\x86\Release\LameChickenBase.csprojResolveAssemblyReference.cache
+D:\Coding\XNA Engine\WindowsGameLibrary1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Coding\XNA Engine\WindowsGameLibrary1\obj\x86\Release\WindowsGameLibrary1.dll
+D:\Coding\XNA Engine\WindowsGameLibrary1\obj\x86\Release\WindowsGameLibrary1.pdb

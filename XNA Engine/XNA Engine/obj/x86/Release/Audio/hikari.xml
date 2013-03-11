@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="waveBank">Wave Bank
+{
+    Name = waveBank;
+    Xbox File = Xbox\waveBank.xwb;
+    Windows File = Win\waveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 2732276024;
+    Bank Last Revised High = 30285418;
+
+    Wave
+    {
+        Name = footstep;
+        File = 9907__snoman__grass4.wav;
+        Build Settings Last Modified Low = 2595868222;
+        Build Settings Last Modified High = 30285418;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 17792;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2494610620;
+            Last Modified High = 30285413;
+        }
+    }
+
+    Wave
+    {
+        Name = waterfall;
+        File = 38569__digifishmusic__atherton-tablelands-malanda-falls.wav;
+        Build Settings Last Modified Low = 2572878545;
+        Build Settings Last Modified High = 30285417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8371200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2694647148;
+            Last Modified High = 30285416;
+        }
+    }
+
+    Wave
+    {
+        Name = cicada;
+        File = 15345__fotomacc__cicada1.wav;
+        Build Settings Last Modified Low = 2572878545;
+        Build Settings Last Modified High = 30285417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 1433520;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2868637099;
+            Last Modified High = 30285416;
+        }
+    }
+
+    Wave
+    {
+        Name = summer;
+        File = 38974__imonacan__urbansummer13fade.wav;
+        Build Settings Last Modified Low = 2572878545;
+        Build Settings Last Modified High = 30285417;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11375848;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3359265162;
+            Last Modified High = 30285416;
+        }
+    }
+
+    Wave
+    {
+        Name = wind;
+        File = 34338__erh__wind.wav;
+        Build Settings Last Modified Low = 2732276024;
+        Build Settings Last Modified High = 30285418;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 112;
+            Play Region Length = 10223616;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 724391180;
+            Last Modified High = 30285418;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

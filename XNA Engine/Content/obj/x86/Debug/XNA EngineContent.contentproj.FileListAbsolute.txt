@@ -1,0 +1,2 @@
+D:\Coding\XNA Engine\XNA Engine\XNA EngineContent\obj\x86\Debug\XNA EngineContent.contentprojResolveAssemblyReference.cache
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA EngineContent\obj\x86\Debug\XNA EngineContent.contentprojResolveAssemblyReference.cache

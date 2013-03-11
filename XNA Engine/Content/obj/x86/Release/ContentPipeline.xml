@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\circle.xnb</Output>
+      <Time>2012-10-19T15:19:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cross.png</Source>
+      <Name>cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\cross.xnb</Output>
+      <Time>2012-10-23T11:20:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\smoke.xnb</Output>
+      <Time>2012-11-02T20:42:05.4815197+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soil.png</Source>
+      <Name>soil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\soil.xnb</Output>
+      <Time>2012-11-04T15:00:05.6372996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>char.png</Source>
+      <Name>char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\char.xnb</Output>
+      <Time>2012-11-04T15:48:31.6385134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jap_walk.png</Source>
+      <Name>jap_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_walk.xnb</Output>
+      <Time>2012-11-04T20:37:35.8945481+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jap_idle.png</Source>
+      <Name>jap_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_idle.xnb</Output>
+      <Time>2012-11-04T21:15:21.6151399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>balls.png</Source>
+      <Name>balls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\balls.xnb</Output>
+      <Time>2012-11-16T15:12:02.9612721+01:00</Time>
+    </Item>
+    <Item>
+      <Source>test.spritefont</Source>
+      <Name>test</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\test.xnb</Output>
+      <Time>2012-11-20T21:09:45.1340927+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\cursor.xnb</Output>
+      <Time>2012-11-18T20:26:23.9780444+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\bg.xnb</Output>
+      <Time>2012-11-18T20:47:56.2679591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hikari.png</Source>
+      <Name>Hikari</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Hikari.xnb</Output>
+      <Time>2012-11-19T14:04:15.2470971+01:00</Time>
+    </Item>
+    <Item>
+      <Source>uibutton.png</Source>
+      <Name>uibutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\uibutton.xnb</Output>
+      <Time>2012-11-19T23:30:32.1149759+01:00</Time>
+    </Item>
+    <Item>
+      <Source>profilesBg.png</Source>
+      <Name>profilesBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\profilesBg.xnb</Output>
+      <Time>2012-11-20T20:38:39.1653654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>profilebutton.png</Source>
+      <Name>profilebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\profilebutton.xnb</Output>
+      <Time>2012-11-20T21:00:04.1298612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>profDef.png</Source>
+      <Name>profDef</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\profDef.xnb</Output>
+      <Time>2012-11-20T21:41:14.1571387+01:00</Time>
+    </Item>
+    <Item>
+      <Source>resetProf.png</Source>
+      <Name>resetProf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\resetProf.xnb</Output>
+      <Time>2012-11-20T21:59:17.8761239+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_0_0.png</Source>
+      <Name>Level\01\Level01_0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_0_0.xnb</Output>
+      <Time>2012-11-22T18:06:26.4355472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_0_1.png</Source>
+      <Name>Level\01\Level01_0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_0_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.448548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_10_1.png</Source>
+      <Name>Level\01\Level01_10_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_10_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4795497+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_10_2.png</Source>
+      <Name>Level\01\Level01_10_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_10_2.xnb</Output>
+      <Time>2012-11-22T18:06:26.4805498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_11_1.png</Source>
+      <Name>Level\01\Level01_11_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_11_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4825499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_1_1.png</Source>
+      <Name>Level\01\Level01_1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_1_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4525482+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_2_1.png</Source>
+      <Name>Level\01\Level01_2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_2_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4555484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_3_1.png</Source>
+      <Name>Level\01\Level01_3_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_3_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4595486+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_4_1.png</Source>
+      <Name>Level\01\Level01_4_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_4_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4625488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_4_2.png</Source>
+      <Name>Level\01\Level01_4_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_4_2.xnb</Output>
+      <Time>2012-11-22T18:06:26.4655489+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_5_1.png</Source>
+      <Name>Level\01\Level01_5_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_5_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.467549+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_5_2.png</Source>
+      <Name>Level\01\Level01_5_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_5_2.xnb</Output>
+      <Time>2012-11-22T18:06:26.4685491+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_6_1.png</Source>
+      <Name>Level\01\Level01_6_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_6_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4705492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_7_1.png</Source>
+      <Name>Level\01\Level01_7_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_7_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4715493+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_8_1.png</Source>
+      <Name>Level\01\Level01_8_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_8_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4725493+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_9_1.png</Source>
+      <Name>Level\01\Level01_9_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_9_1.xnb</Output>
+      <Time>2012-11-22T18:06:26.4745494+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level\01\Level01_9_2.png</Source>
+      <Name>Level\01\Level01_9_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\Level\01\Level01_9_2.xnb</Output>
+      <Time>2012-11-22T18:06:26.4775496+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA EngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA EngineContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-07T09:58:30.7343559+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

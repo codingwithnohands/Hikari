@@ -1,0 +1,36 @@
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\circle.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\cross.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\smoke.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\soil.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\char.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_walk.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_idle.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\balls.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\test.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\XNA Engine.exe
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\XNA Engine.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\WindowsGameLibrary1.dll
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\WindowsGameLibrary1.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Game.csprojResolveAssemblyReference.cache
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Engine.exe
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Engine.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\circle.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\cross.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\smoke.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\soil.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\char.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_walk.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\jap_idle.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\balls.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\test.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\XNA Engine.exe
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\XNA Engine.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\WindowsGameLibrary1.dll
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\WindowsGameLibrary1.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Game.csprojResolveAssemblyReference.cache
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Engine.exe
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Release\XNA Engine.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\cursor.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Release\Content\bg.xnb

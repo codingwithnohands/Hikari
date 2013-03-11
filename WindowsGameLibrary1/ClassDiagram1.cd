@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LameChicken.Transform">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAACAIAICCAAAAAACAAAAhAAAACA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Camera">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCCCAAAAAABAACAgACACACAAAAAACAAAQAAgQ=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Sprite">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhARIEEABEAIAwIAIAAAAAAAAAAAAACBAAAQiAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Animation">
+    <Position X="18.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAACQEAAQRAAABAAAAAAEIAAAgAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Emitter">
+    <Position X="20.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACIEAkIICAQACCIVQAUQAAAAAAAAAEEIgAAEACU=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Temporary">
+    <Position X="25.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAQ=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Physic">
+    <Position X="29.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEAgIBAAgAAAQBAUAQAABAIgAAAARAAACAgQE=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.CharacterController">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAACAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Audio">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UIGroup">
+    <Position X="14" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAAAAgQAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UIButton">
+    <Position X="23" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAAAAAAAEAAAAAAAAEAAAAAQABCAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UIText">
+    <Position X="27.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAADAAIAgQAABAAAAQAQACEAAALAAAAiAAAACA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Solid">
+    <Position X="32" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAADAgIAgQAABAAAAQAQACAAAADAAAAgAAAAgA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UITexture">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAKEEADAAIAgQAIAAAAAAAAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UIMenu">
+    <Position X="14" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Cursor">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.GameContent">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameContentLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.GameObjectManager">
+    <Position X="42.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAAAAIIEAAIAIQBAAgCCIIQ0AEACCAACAAAAA=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.ComponentTypeManager">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.ComponentType">
+    <Position X="34.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAABAACAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.GameObject">
+    <Position X="37.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACICBAAkAIAAAAAAJEFIAgAhwEAAAEgCAAACABAAA=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Component">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAgAAARAAIABAEAAAAAAAAAAAYgAAAAAAAAE=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LameChicken.InputHandler">
+    <Position X="43" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwgQBIEAwAKgQAAAiggAACAhRAAAgAAAAAQAEBGAwA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.DeviceMapper">
+    <Position X="39.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.LevelManager">
+    <Position X="40.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYQIIAAgggAICGAAACAAAAFAAAAAAAAAAACBAgAQEA=</HashCode>
+      <FileName>LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.Level">
+    <Position X="38.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCIAIQAgAAAwQAAAAAAAQAAgAAAQCAIQAAAAAAAAA=</HashCode>
+      <FileName>LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.PhysicsManager">
+    <Position X="40.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAhAAAAAAAAAAAAQAACAAAAAAAAACAA=</HashCode>
+      <FileName>Physics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.flatRender">
+    <Position X="45" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAgAACECAAAAIEAAQQAAAgAgAAMCSIAAAAABAAQ=</HashCode>
+      <FileName>Render.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.threeDRender">
+    <Position X="30.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Render.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.BoundingVolume">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.QuadTree">
+    <Position X="40.25" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAQAAAAIAAAAAAAAgAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.QuadTreeNode">
+    <Position X="35.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAABAAAAAAgAAAEEIAQBAADAACAAAgAggAIoAI=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LameChicken.UIPosition">
+    <Position X="40.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAAAAAAACAESAAAAMQAAQAAQAAAAgAAQAIQAA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LameChicken.CollisionData">
+    <Position X="45.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAsACwAAAAEAAAAAAAAAAABAAAAABIAAAAAAAAAAA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="LameChicken.IComponent">
+    <Position X="28.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjectSys.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="LameChicken.UIButtonState">
+    <Position X="38" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAg=</HashCode>
+      <FileName>BaseComponents.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LameChicken.QuadTreeSection">
+    <Position X="36.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LameChicken.alignment">
+    <Position X="34.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAEQAAAAEQAAAAAAAAAAgAAQAIQAA=</HashCode>
+      <FileName>StorageClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

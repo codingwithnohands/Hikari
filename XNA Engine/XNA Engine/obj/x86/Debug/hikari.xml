@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="waveBank">Wave Bank
+{
+    Name = waveBank;
+    Xbox File = Xbox\waveBank.xwb;
+    Windows File = Win\waveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3223490753;
+    Bank Last Revised High = 30264141;
+}
+
+</WaveBank>
+</Sections>

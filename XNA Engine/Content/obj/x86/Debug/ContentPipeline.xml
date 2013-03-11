@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2012-10-19T15:19:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cross.png</Source>
+      <Name>cross</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\cross.xnb</Output>
+      <Time>2012-10-23T11:20:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2012-11-02T20:42:05.4815197+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soil.png</Source>
+      <Name>soil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\soil.xnb</Output>
+      <Time>2012-11-04T15:00:05.6372996+01:00</Time>
+    </Item>
+    <Item>
+      <Source>char.png</Source>
+      <Name>char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\char.xnb</Output>
+      <Time>2012-11-04T15:48:31.6385134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jap_walk.png</Source>
+      <Name>jap_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_walk.xnb</Output>
+      <Time>2012-11-04T20:37:35.8945481+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jap_idle.png</Source>
+      <Name>jap_idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_idle.xnb</Output>
+      <Time>2012-11-04T21:15:21.6151399+01:00</Time>
+    </Item>
+    <Item>
+      <Source>test.spritefont</Source>
+      <Name>test</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2012-11-15T09:21:49.8432195+01:00</Time>
+    </Item>
+    <Item>
+      <Source>balls.png</Source>
+      <Name>balls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\balls.xnb</Output>
+      <Time>2012-11-16T15:12:02.9612721+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA EngineContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA EngineContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-07T09:58:30.7343559+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

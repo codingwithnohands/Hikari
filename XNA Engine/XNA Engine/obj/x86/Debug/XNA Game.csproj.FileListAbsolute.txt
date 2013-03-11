@@ -1,0 +1,33 @@
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Game.csprojResolveAssemblyReference.cache
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\XNA Engine.exe
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\XNA Engine.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\WindowsGameLibrary1.dll
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\WindowsGameLibrary1.pdb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Engine.exe
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Engine.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\XNA Engine.exe
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\XNA Engine.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\WindowsGameLibrary1.dll
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\WindowsGameLibrary1.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Game.csprojResolveAssemblyReference.cache
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Engine.exe
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\obj\x86\Debug\XNA Engine.pdb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\circle.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\circle.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\cross.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\cross.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\smoke.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\soil.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\char.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_walk.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_idle.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\smoke.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\soil.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\char.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_walk.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\jap_idle.xnb
+D:\Coding\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\test.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\test.xnb
+C:\Users\FBI PR 012\Desktop\XNA Engine\XNA Engine\XNA Engine\bin\x86\Debug\Content\balls.xnb
